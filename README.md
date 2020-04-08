@@ -4,11 +4,6 @@
 
 Sam Choukri
 
-```
-email: sam@choukri.net
-phone: 858-382-3062
-```
-
 ## Challenge
 
 Write a program which takes as input a list of mines composing a 2D minefield; each mine has an X position, a Y position, and an explosive power. All three parameters may be assumed to be single-precision floats; explosive power may not be negative. There may not be more than one mine at the same coordinates.
